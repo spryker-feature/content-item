@@ -12,6 +12,8 @@
     "spryker-feature/product": "^201906.0",
     "spryker-feature/product-sets": "^201906.0",
     "spryker-shop/content-product-widget": "^0.1.0",
+    "spryker/content-product": "^0.1.0",
+    "spryker/content-product-data-import": "^0.1.0",
     "spryker/content-product-gui": "^0.1.0",
     "spryker/content-product-set-gui": "^0.1.0"
   },
