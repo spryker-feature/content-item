@@ -7,10 +7,6 @@
   "prefer-stable": true,
   "require": {
     "php": ">=7.1",
-    "spryker-feature/cms": "^201906.0",
-    "spryker-feature/file-manager": "^201906.0",
-    "spryker-feature/product": "^201906.0",
-    "spryker-feature/product-sets": "^201906.0",
     "spryker-shop/content-banner-widget": "^0.1.0",
     "spryker-shop/content-product-widget": "^0.1.0",
     "spryker/content": "^1.0.0",
