@@ -1,0 +1,20 @@
+{
+  "name": "spryker-feature/content-item",
+  "description": "Content Item [feature]",
+  "type": "metapackage",
+  "license": "proprietary",
+  "minimum-stability": "dev",
+  "prefer-stable": true,
+  "require": {
+    "php": ">=7.1",
+    "spryker-feature/cms": "^201906.0",
+    "spryker-feature/file-manager": "^201906.0",
+    "spryker-feature/product": "^201906.0",
+    "spryker-feature/product-sets": "^201906.0"
+  },
+  "extra": {
+    "branch-alias": {
+      "dev-master": "201906.x-dev"
+    }
+  }
+}
