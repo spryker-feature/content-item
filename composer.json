@@ -15,6 +15,7 @@
     "spryker-shop/content-product-widget": "^0.1.0",
     "spryker/content": "^1.0.0",
     "spryker/content-banner": "^1.0.0",
+    "spryker/content-banner-data-import": "^0.1.0",
     "spryker/content-banner-gui": "^1.0.0",
     "spryker/content-gui": "^1.0.0",
     "spryker/content-product": "^0.1.0",
