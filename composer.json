@@ -8,6 +8,7 @@
   "require": {
     "php": ">=7.1",
     "spryker-shop/content-banner-widget": "^0.2.0",
+    "spryker-shop/content-product-set-widget": "^1.0.0",
     "spryker-shop/content-product-widget": "^0.2.0",
     "spryker/content": "^2.0.0",
     "spryker/content-banner": "^2.0.0",
