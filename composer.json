@@ -16,7 +16,7 @@
     "spryker/content-banner": "^2.0.0",
     "spryker/content-banner-data-import": "^0.2.0",
     "spryker/content-banner-gui": "^2.0.0",
-    "spryker/content-file": "^2.0.0",
+    "spryker/content-file": "^1.0.0",
     "spryker/content-file-gui": "^1.0.0",
     "spryker/content-gui": "^2.0.0",
     "spryker/content-product": "^0.2.0",
