@@ -8,3 +8,14 @@ Content Item is a new abstraction layer for any content, such as image, text, pr
 ```
 composer require spryker-feature/content-item
 ```
+
+## Recommended feature dependencies
+- [spryker-feature/spryker-core](https://github.com/spryker-feature/spryker-core)
+
+If you don't include the feature dependencies, make sure you use the respective modules instead.
+
+## Optional modules
+- [ContentBannersRestApi ^2.1.0](https://github.com/spryker/content-banners-rest-api) (Glue)
+- [ContentGuiExtension ^1.1.0](https://github.com/spryker/content-gui-extension) (Extension)
+- [ContentProductAbstractListsRestApi ^1.0.0](https://github.com/spryker/content-product-abstract-lists-rest-api) (Glue)
+- [ContentStorageExtension ^1.1.0](https://github.com/spryker/content-storage-extension) (Extension)
